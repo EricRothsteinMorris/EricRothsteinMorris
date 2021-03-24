@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bialgebras and Type Theory
 - 🌱 I’m currently learning Homotopy Type Theory
 - 💞️ I’m looking to collaborate on anything related to program synthesis
-- 📫 To reach me, drop me a DM at @Fixedpointers over on Twitter
+- 📫 To reach me, drop me a DM at @fixedpoints over on Twitter
 
 <!---
 EricRothsteinMorris/EricRothsteinMorris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
