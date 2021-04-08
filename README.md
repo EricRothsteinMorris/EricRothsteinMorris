@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricRothsteinMorris, a final year PhD Candidate of the Information Systems Technology and Design (ISTD) pillar of the Singapore University of Technology and Design (SUTD)
-- 👀 I’m interested in Bialgebras and Type Theory
+- 👀 I’m interested in Coalgebras and Type Theory
 - 🌱 I’m currently learning Homotopy Type Theory
-- 💞️ I’m looking to collaborate on anything related to program synthesis
+- 💞️ I’m looking to collaborate in PL design (once I graduate)
 - 📫 To reach me, drop me a DM at @fixedpoints over on Twitter
 
 <!---
