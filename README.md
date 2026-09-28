@@ -12,11 +12,6 @@ for German healthcare institutions.
 - Goal: tools that make formally verified code the expected output
   of AI-assisted software development.
 
-## Selected projects
-- **dh-mitm**: Lean 4 proof that the original Diffie–Hellman
-  key exchange is vulnerable to a man-in-the-middle attack.
-  Work in progress, not yet public.
-
 ## Publications
 - *ORIGAMI: Folding Data Structures to Reduce Timing Side-Channel
   Leakage.* MEMOCODE 2022.
